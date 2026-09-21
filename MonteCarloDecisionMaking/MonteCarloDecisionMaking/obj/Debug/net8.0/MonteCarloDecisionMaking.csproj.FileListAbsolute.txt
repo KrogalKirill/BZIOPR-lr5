@@ -1,0 +1,11 @@
+C:\Users\Home\Desktop\7 семестр\БЗиОПР\lr5\MonteCarloDecisionMaking\MonteCarloDecisionMaking\bin\Debug\net8.0\MonteCarloDecisionMaking.deps.json
+C:\Users\Home\Desktop\7 семестр\БЗиОПР\lr5\MonteCarloDecisionMaking\MonteCarloDecisionMaking\bin\Debug\net8.0\MonteCarloDecisionMaking.dll
+C:\Users\Home\Desktop\7 семестр\БЗиОПР\lr5\MonteCarloDecisionMaking\MonteCarloDecisionMaking\bin\Debug\net8.0\MonteCarloDecisionMaking.pdb
+C:\Users\Home\Desktop\7 семестр\БЗиОПР\lr5\MonteCarloDecisionMaking\MonteCarloDecisionMaking\obj\Debug\net8.0\MonteCarloDecisionMaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\7 семестр\БЗиОПР\lr5\MonteCarloDecisionMaking\MonteCarloDecisionMaking\obj\Debug\net8.0\MonteCarloDecisionMaking.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\7 семестр\БЗиОПР\lr5\MonteCarloDecisionMaking\MonteCarloDecisionMaking\obj\Debug\net8.0\MonteCarloDecisionMaking.AssemblyInfo.cs
+C:\Users\Home\Desktop\7 семестр\БЗиОПР\lr5\MonteCarloDecisionMaking\MonteCarloDecisionMaking\obj\Debug\net8.0\MonteCarloDecisionMaking.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\7 семестр\БЗиОПР\lr5\MonteCarloDecisionMaking\MonteCarloDecisionMaking\obj\Debug\net8.0\MonteCarloDecisionMaking.dll
+C:\Users\Home\Desktop\7 семестр\БЗиОПР\lr5\MonteCarloDecisionMaking\MonteCarloDecisionMaking\obj\Debug\net8.0\refint\MonteCarloDecisionMaking.dll
+C:\Users\Home\Desktop\7 семестр\БЗиОПР\lr5\MonteCarloDecisionMaking\MonteCarloDecisionMaking\obj\Debug\net8.0\MonteCarloDecisionMaking.pdb
+C:\Users\Home\Desktop\7 семестр\БЗиОПР\lr5\MonteCarloDecisionMaking\MonteCarloDecisionMaking\obj\Debug\net8.0\ref\MonteCarloDecisionMaking.dll

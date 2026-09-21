@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n/7+eXvLFz8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home\\Desktop\\7 семестр\\БЗиОПР\\lr5\\MonteCarloDecisionMaking\\MonteCarloDecisionMaking\\MonteCarloDecisionMaking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.21\\microsoft.windowsdesktop.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.21\\microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.21\\microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

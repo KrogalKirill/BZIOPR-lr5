@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonteCarloDecisionMaking", "MonteCarloDecisionMaking\MonteCarloDecisionMaking.csproj", "{F7D4ABCA-BB3B-4E99-B5CA-78B0DE47B612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{408D1100-213F-4E12-93DE-4A83A913D902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D4ABCA-BB3B-4E99-B5CA-78B0DE47B612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D4ABCA-BB3B-4E99-B5CA-78B0DE47B612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D4ABCA-BB3B-4E99-B5CA-78B0DE47B612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D4ABCA-BB3B-4E99-B5CA-78B0DE47B612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{408D1100-213F-4E12-93DE-4A83A913D902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408D1100-213F-4E12-93DE-4A83A913D902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408D1100-213F-4E12-93DE-4A83A913D902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408D1100-213F-4E12-93DE-4A83A913D902}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D04AAB5-37D6-4237-A374-39730DBC918E}
+	EndGlobalSection
+EndGlobal
